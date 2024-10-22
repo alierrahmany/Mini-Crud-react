@@ -1,0 +1,21 @@
+table{
+    text-align: center;
+    border-collapse:collapse ;
+}
+td{
+    border: 3px solid green;
+    width: 80px;
+    background-color: yellow;
+
+}
+th{
+    border: 3px solid green ;
+    background-color:lightblue ;
+    font-weight: bold;
+}
+button{
+    background-color: green;
+    border-radius: 10%;
+    margin-left: 10px;
+}
+u
